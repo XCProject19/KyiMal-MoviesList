@@ -2,6 +2,67 @@
 "allmovie":
 [
 {
+"title" : "Title",
+"gen" : "myintmyat,comedy",
+"date" : "2019",
+"cover" : "https://vuclipi-a.akamaihd.net/p/cloudinary/h_855,w_1520,dpr_1.5,f_auto,c_thumb,q_auto:low/Coverid/d-1",
+"image" : "https://vuclipi-a.akamaihd.net/p/cloudinary/h_492,w_368,dpr_1.5,f_auto,c_thumb,q_auto:low/PosterId/d-1",
+"length" : "2hr 05min",
+"qual" : "1080p FullHD",
+"size" : "2.0 GB",
+"video" : "Video",
+"vol" : "Vol"}
+,
+{
+"title" : "Title",
+"gen" : "myintmyat,comedy",
+"date" : "2019",
+"cover" : "https://vuclipi-a.akamaihd.net/p/cloudinary/h_855,w_1520,dpr_1.5,f_auto,c_thumb,q_auto:low/Coverid/d-1",
+"image" : "https://vuclipi-a.akamaihd.net/p/cloudinary/h_492,w_368,dpr_1.5,f_auto,c_thumb,q_auto:low/PosterId/d-1",
+"length" : "2hr 05min",
+"qual" : "1080p FullHD",
+"size" : "2.0 GB",
+"video" : "Video",
+"vol" : "Vol"}
+,
+{
+"title" : "Title",
+"gen" : "myintmyat,comedy",
+"date" : "2019",
+"cover" : "https://vuclipi-a.akamaihd.net/p/cloudinary/h_855,w_1520,dpr_1.5,f_auto,c_thumb,q_auto:low/Coverid/d-1",
+"image" : "https://vuclipi-a.akamaihd.net/p/cloudinary/h_492,w_368,dpr_1.5,f_auto,c_thumb,q_auto:low/PosterId/d-1",
+"length" : "2hr 05min",
+"qual" : "1080p FullHD",
+"size" : "2.0 GB",
+"video" : "Video",
+"vol" : "Vol"}
+,
+{
+"title" : "Title",
+"gen" : "myintmyat,comedy",
+"date" : "2019",
+"cover" : "https://vuclipi-a.akamaihd.net/p/cloudinary/h_855,w_1520,dpr_1.5,f_auto,c_thumb,q_auto:low/Coverid/d-1",
+"image" : "https://vuclipi-a.akamaihd.net/p/cloudinary/h_492,w_368,dpr_1.5,f_auto,c_thumb,q_auto:low/PosterId/d-1",
+"length" : "2hr 05min",
+"qual" : "1080p FullHD",
+"size" : "2.0 GB",
+"video" : "Video",
+"vol" : "Vol"}
+,
+{
+"title" : "အော်တိုဘုရင်",
+"gen" : "kyawkyawbo,zarganar,comedy",
+"date" : "2019",
+"cover" : "https://vuclipi-a.akamaihd.net/p/cloudinary/h_855,w_1520,dpr_1.5,f_auto,c_thumb,q_auto:low/1165765004/d-1",
+"image" : "https://vuclipi-a.akamaihd.net/p/cloudinary/h_492,w_368,dpr_1.5,f_auto,c_thumb,q_auto:low/1165763271/d-1",
+"length" : "2hr 05min",
+"qual" : "1080p FullHD",
+"size" : "2.0 GB",
+"video" : "Video",
+"vol" : "ဇာဂနာနဲ့ကျော်ကျော်ဗိုလ်တို့ရဲ့ နာမည်ကြီးခဲ့တဲ့အော်တိုဘုရင်ဟာသရုပ်ရှင်ကားကြီးဖြစ်ပါတယ်။ ဘုရင်အဖြစ်ရွေးကောက်တင်မြှောက်ခံရဖို့ဆိုတာ တော်ရုံတန်ရုံလွယ်တဲ့ကိစ္စမဟုတ်ပေမယ့် သူတို့ကျမှဘယ်လိုဖြစ်လို့ အော်တိုဘုရင်ဖြစ်သွားရတာလဲဆိုတာ ဆက်ကြည့်လိုက်ပါဦးနော်။"}
+,
+
+{
 "title" : "ဆိုင်းကြိုက်တဲ့မောင်",
 "gen" : "myintmyat,comedy",
 "date" : "2019",
