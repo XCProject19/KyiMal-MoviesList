@@ -1,32 +1,7 @@
 {
 "allmovie":
 [
-	{
-"title" : "အိပ်ဆေး",
-"gen" : "kaungpyae,horror",
-"date" : "2019",
-"cover" : "https://1.bp.blogspot.com/-xpUCwWAKjhQ/XzF0cFLcD9I/AAAAAAAAYuI/tR4FcdcONEsggzDlQ2yeu3bIvs4Bd6yuQCLcBGAsYHQ/s1600/%25E1%2580%25A1%25E1%2580%25AD%25E1%2580%2595%25E1%2580%25BA%25E1%2580%2586%25E1%2580%25B1%25E1%2580%25B8.jpg",
-"image" : "https://1.bp.blogspot.com/-AYtA5Pjjqm0/XzF0c7zXffI/AAAAAAAAYuM/l9ryx_u_rgwVBsQwOwlNXcs4_AC8oo24wCLcBGAsYHQ/s500/%25E1%2580%25A1%25E1%2580%25AD%25E1%2580%2595%25E1%2580%25BA%25E1%2580%2586%25E1%2580%25B1%25E1%2580%25B81.jpg",
-"length" : "1hr 43min",
-"qual" : "720p FullHD",
-"size" : "952 MB",
-"video" : "https://drive.google.com/file/d/15NP4VeZI4zwyOkNctrlSK3jgHdrB8wra/view",
-"vol" : ""}
-,
-	{
-"title" : "သားဗိုက်ကောင်",
-"gen" : "tuntun,comedy,drama",
-"date" : "2019",
-"cover" : "https://1.bp.blogspot.com/-CdN1GEIcEXw/XzF0V_PEsCI/AAAAAAAAYtA/T5ID8v2nreYa_gX5RQAgsqzm4zHLDbhHQCLcBGAsYHQ/s1600/%25E1%2580%259E%25E1%2580%25AC%25E1%2580%25B8%25E1%2580%2597%25E1%2580%25AD%25E1%2580%25AF%25E1%2580%2580%25E1%2580%25BA%25E1%2580%2580%25E1%2580%25B1%25E1%2580%25AC%25E1%2580%2584%25E1%2580%25BA.jpg",
-"image" : "https://1.bp.blogspot.com/-PCKyLHVXvr4/XzF0WNwlitI/AAAAAAAAYtE/1Tw9O2bIH9gjkZnqBhjTK3hZ3qqDWtR8ACLcBGAsYHQ/s500/%25E1%2580%259E%25E1%2580%25AC%25E1%2580%25B8%25E1%2580%2597%25E1%2580%25AD%25E1%2580%25AF%25E1%2580%2580%25E1%2580%25BA%25E1%2580%2580%25E1%2580%25B1%25E1%2580%25AC%25E1%2580%2584%25E1%2580%25BA1.jpg",
-"length" : "2hr 10min",
-"qual" : "1080p FullHD",
-"size" : "2.0 GB",
-"video" : "https://drive.google.com/file/d/18uIYPvwaeQ42s-ncQ3dfinOQ8v6_XZEs/view",
-"vol" : ""}
-,
-	
-	{
+{
 "title" : "လေးပါးကျော့ရှိန် ဝရဇိန်",
 "gen" : "naymin,minmawkun,minthway,tuntun,siphyo,comedy,action",
 "date" : "2019",
@@ -38,8 +13,7 @@
 "video" : "https://drive.google.com/file/d/1vG-xY2fOIFDlCUMoinH82-v--9xU9-eb/view",
 "vol" : "နဖြူစင်သောမေတ္တာတရား ၊ စစ်မှန်သောသူငယ်ချင်း ၊ ချစ်စရာကောင်းတဲ့ဘဝတွေကိုပုံဖော်ရိုက်ကူးထားတဲ့ ရုပ်ရှင်ဇာတ်ကားကြီး...။ မင်းသွေးကို ပြန်လည်အမှတ်ရစေမယ့်  လေးပါးကျော့ရှိန် ဝရဇိန်...။"}
 ,
-	
-	{
+{
 "title" : "ပြဿနာ",
 "gen" : "naytoe,zarganar,comedy",
 "date" : "2019",
@@ -753,7 +727,7 @@
     },
 {
       "image" : "http://104275-c.ooyala.com/lveHlmZzE6W-KKVnoJUD4Red9wUwXDkR/promo364039764",
-	  "cover" : "http://104275-c.ooyala.com/lveHlmZzE6W-KKVnoJUD4Red9wUwXDkR/promo364039764",
+	"cover" : "http://104275-c.ooyala.com/lveHlmZzE6W-KKVnoJUD4Red9wUwXDkR/promo364039764",
       "length" : "52:24",
       "gen" : "pyoneplay","date" : "2019","path" : "ကက",
       "size" : "162",
@@ -861,6 +835,48 @@
       "video" : "http://104275-c.ooyala.com/JxeXllZzE69wu8_Z7YsIBrrC8R37ew7y/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
       "vol" : "(အကယ်ဒမီဒွေး၊အကယ်ဒမီထွန်းအိန္ဒြာဗို၊ရတနာခင်) [ဒါရိုက်တာ- ကြည်ဖြူသျှင်]"
     },
+ 
+{
+"title" : "ဘာမီတွန်",
+"gen" : "yanungaung,naytoe,thetmommyint,comedy",
+"date" : "",
+"cover" : "https://1.bp.blogspot.com/-n4jlfrZdRHk/XzJnGxs3XsI/AAAAAAAAY8c/3b5Qye8MtCMom4z4ohGZJ3EhUcjh4Y6WgCLcBGAsYHQ/s0/brmiTon.jpg",
+"image" : "https://1.bp.blogspot.com/-YSb4ehxd_f0/XzJ1LoUVawI/AAAAAAAAY80/CZt9lxFd4LEzeR-QtYSitYBgzWrdAfkJwCLcBGAsYHQ/s1600/b2.jpg",
+"length" : "2:24:43",
+"qual" : "‪1,280 x 720‬",
+"size" : "938 MB",
+"video" : "https://drive.google.com/file/d/19ySqNq5pLiD217gco3rEG69_H8TrLhrH/view",
+"vol" : " ရန်အောင် ၊ နေတိုး ၊ ထွန်းအိန္ဒြာဗို ၊ သက်မွန်မြင့်"
+}
+,
+
+{
+"title" : "မာမီရှိန်း ",
+"gen" : "naytoe,Eaindrakyawzin,comedy",
+"date" : "",
+"cover" : "https://1.bp.blogspot.com/-uPQBP2fpEgM/XzJ7hAit2tI/AAAAAAAAY9Q/7PLnXCTTN0AJdBnPCyK9-gcI4n4EMUmHACLcBGAsYHQ/s1600/MarMeShein.jpg",
+"image" : "https://1.bp.blogspot.com/-ZHieCo6p_PE/XzJ7hby42wI/AAAAAAAAY9U/z2NWZnEcGssoHyoxMU8chL9J9lolLcYqgCLcBGAsYHQ/s0/mrmeSmall.jpeg",
+"length" : "2:25:08",
+"qual" : "‪1,920 x 1,080‬",
+"size" : "2GB",
+"video" : "https://drive.google.com/file/d/13TX8onO6sWe2d7W8CQ122Q7eC-VwK193/view",
+"vol" : "နေတိုး၊ အိန္ဒြာကျော်ဇင်"
+}
+,
+{
+"title" : "ကိုကိုစုံထောက်ကြီး ",
+"gen" : "naytoe,shwemonyati,comedy",
+"date" : "",
+"cover" : "https://1.bp.blogspot.com/-9lvHUuXgdTM/XzJnG5AS8FI/AAAAAAAAY8k/VAnGJRbdRzoJnIV04hlRyE-ZuC0mQMfcQCLcBGAsYHQ/s1600/kokodetative.jpg",
+"image" : "https://1.bp.blogspot.com/-kfKkaTs66tQ/XzJ1LvSE60I/AAAAAAAAY84/HhMpVjaCxLw0lRcHOvMw6Sh3MnHjrmGVQCLcBGAsYHQ/s640/kokodetative.jpg",
+"length" : "1:48:00",
+"qual" : "1280 × 720",
+"size" : "567 MB",
+"video" : "https://drive.google.com/file/d/1FNSzeLB_I-gi6hOMQ2o8uWOdRC9errHg/view",
+"vol" : "နေတိုး၊ ရွှေမှုံရတီ"
+}
+,
+
  {
       "image" : "http://104275-c.ooyala.com/FveXllZzE6WxuYKdzPNVfqfJ2-apAeSM/promo363607565",
 	  "cover" : "http://104275-c.ooyala.com/FveXllZzE6WxuYKdzPNVfqfJ2-apAeSM/promo363607565",
