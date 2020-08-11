@@ -1,7 +1,32 @@
 {
 "allmovie":
 [
-{
+	{
+"title" : "အိပ်ဆေး",
+"gen" : "kaungpyae,horror",
+"date" : "2019",
+"cover" : "https://1.bp.blogspot.com/-xpUCwWAKjhQ/XzF0cFLcD9I/AAAAAAAAYuI/tR4FcdcONEsggzDlQ2yeu3bIvs4Bd6yuQCLcBGAsYHQ/s1600/%25E1%2580%25A1%25E1%2580%25AD%25E1%2580%2595%25E1%2580%25BA%25E1%2580%2586%25E1%2580%25B1%25E1%2580%25B8.jpg",
+"image" : "https://1.bp.blogspot.com/-AYtA5Pjjqm0/XzF0c7zXffI/AAAAAAAAYuM/l9ryx_u_rgwVBsQwOwlNXcs4_AC8oo24wCLcBGAsYHQ/s500/%25E1%2580%25A1%25E1%2580%25AD%25E1%2580%2595%25E1%2580%25BA%25E1%2580%2586%25E1%2580%25B1%25E1%2580%25B81.jpg",
+"length" : "1hr 43min",
+"qual" : "720p FullHD",
+"size" : "952 MB",
+"video" : "https://drive.google.com/file/d/15NP4VeZI4zwyOkNctrlSK3jgHdrB8wra/view",
+"vol" : ""}
+,
+	{
+"title" : "သားဗိုက်ကောင်",
+"gen" : "tuntun,comedy,drama",
+"date" : "2019",
+"cover" : "https://1.bp.blogspot.com/-CdN1GEIcEXw/XzF0V_PEsCI/AAAAAAAAYtA/T5ID8v2nreYa_gX5RQAgsqzm4zHLDbhHQCLcBGAsYHQ/s1600/%25E1%2580%259E%25E1%2580%25AC%25E1%2580%25B8%25E1%2580%2597%25E1%2580%25AD%25E1%2580%25AF%25E1%2580%2580%25E1%2580%25BA%25E1%2580%2580%25E1%2580%25B1%25E1%2580%25AC%25E1%2580%2584%25E1%2580%25BA.jpg",
+"image" : "https://1.bp.blogspot.com/-PCKyLHVXvr4/XzF0WNwlitI/AAAAAAAAYtE/1Tw9O2bIH9gjkZnqBhjTK3hZ3qqDWtR8ACLcBGAsYHQ/s500/%25E1%2580%259E%25E1%2580%25AC%25E1%2580%25B8%25E1%2580%2597%25E1%2580%25AD%25E1%2580%25AF%25E1%2580%2580%25E1%2580%25BA%25E1%2580%2580%25E1%2580%25B1%25E1%2580%25AC%25E1%2580%2584%25E1%2580%25BA1.jpg",
+"length" : "2hr 10min",
+"qual" : "1080p FullHD",
+"size" : "2.0 GB",
+"video" : "https://drive.google.com/file/d/18uIYPvwaeQ42s-ncQ3dfinOQ8v6_XZEs/view",
+"vol" : ""}
+,
+	
+	{
 "title" : "လေးပါးကျော့ရှိန် ဝရဇိန်",
 "gen" : "naymin,minmawkun,minthway,tuntun,siphyo,comedy,action",
 "date" : "2019",
@@ -13,7 +38,45 @@
 "video" : "https://drive.google.com/file/d/1vG-xY2fOIFDlCUMoinH82-v--9xU9-eb/view",
 "vol" : "နဖြူစင်သောမေတ္တာတရား ၊ စစ်မှန်သောသူငယ်ချင်း ၊ ချစ်စရာကောင်းတဲ့ဘဝတွေကိုပုံဖော်ရိုက်ကူးထားတဲ့ ရုပ်ရှင်ဇာတ်ကားကြီး...။ မင်းသွေးကို ပြန်လည်အမှတ်ရစေမယ့်  လေးပါးကျော့ရှိန် ဝရဇိန်...။"}
 ,
-{
+	{
+"title" : "ပထမထပ် ဟန်းနီးမွန်း",
+"gen" : "zayyehtet,comedy",
+"date" : "2019",
+"cover" : "https://1.bp.blogspot.com/-aJxv6uy6M_Y/XzF0KrWgzRI/AAAAAAAAYrE/HAemI6dKcdIC0KDI6CRycpNlugQcFgk1QCLcBGAsYHQ/s1600/%25E1%2580%2595%25E1%2580%2591%25E1%2580%2599%2B%25E1%2580%259F%25E1%2580%2594%25E1%2580%25BA%25E1%2580%25B8%25E1%2580%2594%25E1%2580%25AE%25E1%2580%25B8%25E1%2580%2599%25E1%2580%25BD%25E1%2580%2594%25E1%2580%25BA%25E1%2580%25B8.jpg",
+"image" : "https://1.bp.blogspot.com/-f25Q0apDF8w/XzF0KlrcKmI/AAAAAAAAYrI/MT23aaxbnfAvD6JfcKGTd1tC533VyBz5gCLcBGAsYHQ/s500/%25E1%2580%2595%25E1%2580%2591%25E1%2580%2599%2B%25E1%2580%259F%25E1%2580%2594%25E1%2580%25BA%25E1%2580%25B8%25E1%2580%2594%25E1%2580%25AE%25E1%2580%25B8%25E1%2580%2599%25E1%2580%25BD%25E1%2580%2594%25E1%2580%25BA%25E1%2580%25B81.jpg",
+"length" : "2hr 21min",
+"qual" : "720p FullHD",
+"size" : "1.0 GB",
+"video" : "https://drive.google.com/file/d/1FMXpAy2Q1HjO2bzv08-ightzCan5o8U0/view",
+"vol" : ""}
+,
+	{
+"title" : "ခေါက်ထီးလေး မလုံ့တလုံ",
+"gen" : "minmawkun,drama",
+"date" : "2016",
+"cover" : "https://1.bp.blogspot.com/-kFqVRnidoZo/XzF0C4VHayI/AAAAAAAAYps/dzR_C5d-SywF1wVdqalne1dDkDfZRUboQCLcBGAsYHQ/s1600/%25E1%2580%2581%25E1%2580%25B1%25E1%2580%25AB%25E1%2580%2580%25E1%2580%25BA%25E1%2580%2591%25E1%2580%25AE%25E1%2580%25B8%25E1%2580%259C%25E1%2580%25B1%25E1%2580%25B8%2B%25E1%2580%2599%25E1%2580%259C%25E1%2580%25AF%25E1%2580%25B6%25E1%2580%25B7%25E1%2580%2590%25E1%2580%259C%25E1%2580%25AF%25E1%2580%25B6%25E1%2580%25A1%25E1%2580%25AC%25E1%2580%25B8.jpg",
+"image" : "https://1.bp.blogspot.com/-_iMOc0ArFKA/XzF0C9UaYZI/AAAAAAAAYpw/wOBMqmRKhccKab68A4tX_RmGulYRrU6AACLcBGAsYHQ/s500/%25E1%2580%2581%25E1%2580%25B1%25E1%2580%25AB%25E1%2580%2580%25E1%2580%25BA%25E1%2580%2591%25E1%2580%25AE%25E1%2580%25B8%25E1%2580%259C%25E1%2580%25B1%25E1%2580%25B8%2B%25E1%2580%2599%25E1%2580%259C%25E1%2580%25AF%25E1%2580%25B6%25E1%2580%25B7%25E1%2580%2590%25E1%2580%259C%25E1%2580%25AF%25E1%2580%25B6%25E1%2580%25A1%25E1%2580%25AC%25E1%2580%25B81.jpg",
+"length" : "2hr 13min",
+"qual" : "1080p FullHD",
+"size" : "3.0 GB",
+"video" : "https://drive.google.com/file/d/1ZGgtd1lDz0eMG5xNX39yn6GXjzsEVDNh/view",
+"vol" : ""}
+,
+	{
+"title" : "ဂျုံးဂျုံး ဂျက်ဂျက်",
+"gen" : "saisaikhunhlaing,basai,drama",
+"date" : "2019",
+"cover" : "https://1.bp.blogspot.com/-QGjX6dTWEIg/XzF0Ef5oc4I/AAAAAAAAYp8/YIs_DhMPO_YReKlHfSIUqdfjTdMVbc59QCLcBGAsYHQ/s0/%25E1%2580%2582%25E1%2580%25BB%25E1%2580%25AF%25E1%2580%25B6%25E1%2580%25B8%25E1%2580%2582%25E1%2580%25BB%25E1%2580%25AF%25E1%2580%25B6%25E1%2580%25B8%25E1%2580%2582%25E1%2580%25BB%25E1%2580%2580%25E1%2580%25BA%25E1%2580%2582%25E1%2580%25BB%25E1%2580%2580%25E1%2580%25BA.jpg",
+"image" : "https://1.bp.blogspot.com/-3z3qmNtmsTA/XzF0EtyZUQI/AAAAAAAAYqA/c2O-cHomuswcNg-b6B1LX4IuQG-mHSXTgCLcBGAsYHQ/s0/%25E1%2580%2582%25E1%2580%25BB%25E1%2580%25AF%25E1%2580%25B6%25E1%2580%25B8%25E1%2580%2582%25E1%2580%25BB%25E1%2580%25AF%25E1%2580%25B6%25E1%2580%25B8%25E1%2580%2582%25E1%2580%25BB%25E1%2580%2580%25E1%2580%25BA%25E1%2580%2582%25E1%2580%25BB%25E1%2580%2580%25E1%2580%25BA1.jpg",
+"length" : "2hr 00min",
+"qual" : "720p FullHD",
+"size" : "2.0 GB",
+"video" : "https://drive.google.com/file/d/1lHeC_iGf_Rkae_AJxvBofjVIUxK0QJLe/view",
+"vol" : ""}
+,
+	
+	
+	{
 "title" : "ပြဿနာ",
 "gen" : "naytoe,zarganar,comedy",
 "date" : "2019",
@@ -77,6 +140,18 @@
 သူတို့သားအဖနှစ်ယောက်ရဲ့ကံကြမ္မာက ဘယ်လိုတွေဖန်လာဦးမလဲ။
 မြင့်မြတ်နဲ့ကျော်သူတို့ရဲ့အကောင်းဆုံးသရုပ်ဆောင်ချက်တွေကို ဆက်လက်ကြည့်ရှုလိုက်ပါ။"}
 ,
+		{
+"title" :" ကြိုးဖြင့်ချည်ထားသော ဗာရာဏသီ",
+"gen" : "bayluwa,comedy",
+"date" : "2017",
+"cover" : "https://1.bp.blogspot.com/-Xywur6e6gFA/XzF0BluyN7I/AAAAAAAAYpc/XUZpHHZEolIBMaddVYu6-dAzrSILpCHIgCLcBGAsYHQ/s0/%25E1%2580%2580%25E1%2580%25BC%25E1%2580%25AD%25E1%2580%25AF%25E1%2580%25B8%25E1%2580%2596%25E1%2580%25BC%25E1%2580%2584%25E1%2580%25B7%25E1%2580%25BA%25E1%2580%2581%25E1%2580%25BB%25E1%2580%258A%25E1%2580%25BA%25E1%2580%2591%25E1%2580%25AC%25E1%2580%25B8%25E1%2580%259E%25E1%2580%25B1%25E1%2580%25AC%2B%25E1%2580%2597%25E1%2580%25AC%25E1%2580%259B%25E1%2580%25AC%25E1%2580%258F%25E1%2580%259E%25E1%2580%25AE.jpg",
+"image" : "https://1.bp.blogspot.com/-yaCeWN6IOU4/XzF0B18dQiI/AAAAAAAAYpg/qVs4bvtSBaQwFChqTNXjDswP5M7FSYM-QCLcBGAsYHQ/s0/%25E1%2580%2580%25E1%2580%25BC%25E1%2580%25AD%25E1%2580%25AF%25E1%2580%25B8%25E1%2580%2596%25E1%2580%25BC%25E1%2580%2584%25E1%2580%25B7%25E1%2580%25BA%25E1%2580%2581%25E1%2580%25BB%25E1%2580%258A%25E1%2580%25BA%25E1%2580%2591%25E1%2580%25AC%25E1%2580%25B8%25E1%2580%259E%25E1%2580%25B1%25E1%2580%25AC%2B%25E1%2580%2597%25E1%2580%25AC%25E1%2580%259B%25E1%2580%25AC%25E1%2580%258F%25E1%2580%259E%25E1%2580%25AE1.jpg",
+"length" : "2hr 10min",
+"qual" : "1080p FullHD",
+"size" : "3.0 GB",
+"video" : "https://drive.google.com/file/d/1qLI11szQggKo_-VzuV5Pil_XP79ee_Nn/view",
+"vol" : ""}
+,
 {
 "title" : "မှော်ကျောက်စာ",
 "gen" : "myintmyat,thuhtoosan,phyongwesoe,tuntun,history,drama",
@@ -129,6 +204,19 @@
 "vol" : "ဇာဂနာနဲ့ကျော်ကျော်ဗိုလ်တို့ရဲ့ နာမည်ကြီးခဲ့တဲ့အော်တိုဘုရင်ဟာသရုပ်ရှင်ကားကြီးဖြစ်ပါတယ်။
 ဘုရင်အဖြစ်ရွေးကောက်တင်မြှောက်ခံရဖို့ဆိုတာ တော်ရုံတန်ရုံလွယ်တဲ့ကိစ္စမဟုတ်ပေမယ့်
 သူတို့ကျမှဘယ်လိုဖြစ်လို့ အော်တိုဘုရင်ဖြစ်သွားရတာလဲဆိုတာ ဆက်ကြည့်လိုက်ပါဦးနော်။"}
+,
+
+	{
+"title" : "ဂယ်ဘဲသရဲနှင့်သူငယ်ရွာ",
+"gen" : "khinhlaing,joker,comedy",
+"date" : "2018",
+"cover" : "https://1.bp.blogspot.com/-Ws_ZL9qHWN4/XzF0Di6e-LI/AAAAAAAAYp0/VTFjp_JRCCEtfDt8plIRJPWP80eomRwAgCLcBGAsYHQ/s0/%25E1%2580%2582%25E1%2580%259A%25E1%2580%25BA%25E1%2580%2598%25E1%2580%25B2%25E1%2580%259E%25E1%2580%259B%25E1%2580%25B2%25E1%2580%2594%25E1%2580%25BE%25E1%2580%2584%25E1%2580%25B7%25E1%2580%25BA%25E1%2580%259E%25E1%2580%25B0%25E1%2580%2584%25E1%2580%259A%25E1%2580%25BA%25E1%2580%259B%25E1%2580%25BD%25E1%2580%25AC.jpg",
+"image" : "https://1.bp.blogspot.com/-oxWj9Q_lWWc/XzF0EI3lfWI/AAAAAAAAYp4/QllIBnBSsVMzbvWcrobqrO3bBc1lNktmQCLcBGAsYHQ/s0/%25E1%2580%2582%25E1%2580%259A%25E1%2580%25BA%25E1%2580%2598%25E1%2580%25B2%25E1%2580%259E%25E1%2580%259B%25E1%2580%25B2%25E1%2580%2594%25E1%2580%25BE%25E1%2580%2584%25E1%2580%25B7%25E1%2580%25BA%25E1%2580%259E%25E1%2580%25B0%25E1%2580%2584%25E1%2580%259A%25E1%2580%25BA%25E1%2580%259B%25E1%2580%25BD%25E1%2580%25AC1.jpg",
+"length" : "2hr 13min",
+"qual" : "1080p FullHD",
+"size" : "3.0 GB",
+"video" : "https://drive.google.com/file/d/1w5slOu7ZOlP6IfrOBovI9P_Hqkslf4Zo/view",
+"vol" : ""}
 ,
 
 {
@@ -285,6 +373,19 @@
 မောင်မောင့်အမေကို လက်စားချေချင်တဲ့ ယိမ်းတစ်ယောက် ဘယ်လိုအကွက်တွေရွှေ့ဦးမလဲဆိုတာ ငယ်ကျွန် ရုပ်ရှင်ဇာတ်ကားကြီးမှာကြည့်လိုက်ပါ။
 "}
 ,
+		{
+"title" : "ကယ်ရီယာ",
+"gen" : "nyihtutkhaung,action",
+"date" : "2019",
+"cover" : "https://1.bp.blogspot.com/-g7rB69LzFew/XzFz_gFo37I/AAAAAAAAYpM/y5soi-ScNMAQPHKvEzmfMdrRUnPQ42gvQCLcBGAsYHQ/s0/%25E1%2580%2580%25E1%2580%259A%25E1%2580%25BA%25E1%2580%259B%25E1%2580%25AE%25E1%2580%259A%25E1%2580%25AC.jpg",
+"image" : "https://1.bp.blogspot.com/-teRPu9xQyyQ/XzF0ASKbO7I/AAAAAAAAYpQ/aOAjRijDc4csQoYtQsspcgb8sZ8zoiXcgCLcBGAsYHQ/s0/%25E1%2580%2580%25E1%2580%259A%25E1%2580%25BA%25E1%2580%259B%25E1%2580%25AE%25E1%2580%259A%25E1%2580%25AC1.jpg",
+"length" : "1hr 32min",
+"qual" : "720p FullHD",
+"size" : "2 GB",
+"video" : "https://drive.google.com/file/d/18zrj9NnpRHmkZwyjVKjpZGqtnN0gGlic/view",
+"vol" : ""}
+,
+			
 {
 "title" : "ဆင်ဝင်စား",
 "gen" : "nayhtoonaing,drama,country",
@@ -390,6 +491,18 @@
 "vol" : "ချစ်သူရည်းစားနဲ့ သူငယ်ချင်း  ဘယ်အရာကို ပိုဦးစားပေးသင့်လဲ
 
 မိန်းခလေးအချင်းချင်း မနာလို သဝန်တိုမှုတွေကြားမှာ ကောင်လေးတစ်ယောက် ဘယ်လိုတွေ ဝေခွဲမရ ဖြစ်မလဲဆိုတာ ပဟေဠိ ဆန်ဆန် ကြည့်ရှုရမယ့်  “လက်စားချေနတ်သမီး ”"}
+,
+	{
+"title" : "သစ္စာပြိုင်ရှင်းတမ်း",
+"gen" : "heinwaiyan,drama",
+"date" : "2015",
+"cover" : "https://1.bp.blogspot.com/-xwK7S4HerWQ/XzF0VTjz5CI/AAAAAAAAYs4/VD-zylpLHZsOiXuBg8ktbWNgdbMHFkJUgCLcBGAsYHQ/s0/%25E1%2580%259E%25E1%2580%2585%25E1%2580%25B9%25E1%2580%2585%25E1%2580%25AC%25E1%2580%2595%25E1%2580%25BC%25E1%2580%25AD%25E1%2580%25AF%25E1%2580%2584%25E1%2580%25BA%25E1%2580%259B%25E1%2580%25BE%25E1%2580%2584%25E1%2580%25BA%25E1%2580%25B8%25E1%2580%2590%25E1%2580%2599%25E1%2580%25BA%25E1%2580%25B8.jpg",
+"image" : "https://1.bp.blogspot.com/-fAq1YL_Ae3E/XzF0VwX3qXI/AAAAAAAAYs8/lXPwlyqWChs-nnratLeHebGItYU3B2d-wCLcBGAsYHQ/s0/%25E1%2580%259E%25E1%2580%2585%25E1%2580%25B9%25E1%2580%2585%25E1%2580%25AC%25E1%2580%2595%25E1%2580%25BC%25E1%2580%25AD%25E1%2580%25AF%25E1%2580%2584%25E1%2580%25BA%25E1%2580%259B%25E1%2580%25BE%25E1%2580%2584%25E1%2580%25BA%25E1%2580%25B8%25E1%2580%2590%25E1%2580%2599%25E1%2580%25BA%25E1%2580%25B81.jpg",
+"length" : "1hr 45min",
+"qual" : "1080p FullHD",
+"size" : "843 MB",
+"video" : "https://drive.google.com/file/d/1tJKizthy6Kz9FRvMUSrMfRsyl-5268Dn/view",
+"vol" : ""}
 ,
 		
 {
@@ -727,7 +840,7 @@
     },
 {
       "image" : "http://104275-c.ooyala.com/lveHlmZzE6W-KKVnoJUD4Red9wUwXDkR/promo364039764",
-	"cover" : "http://104275-c.ooyala.com/lveHlmZzE6W-KKVnoJUD4Red9wUwXDkR/promo364039764",
+	  "cover" : "http://104275-c.ooyala.com/lveHlmZzE6W-KKVnoJUD4Red9wUwXDkR/promo364039764",
       "length" : "52:24",
       "gen" : "pyoneplay","date" : "2019","path" : "ကက",
       "size" : "162",
@@ -835,48 +948,6 @@
       "video" : "http://104275-c.ooyala.com/JxeXllZzE69wu8_Z7YsIBrrC8R37ew7y/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
       "vol" : "(အကယ်ဒမီဒွေး၊အကယ်ဒမီထွန်းအိန္ဒြာဗို၊ရတနာခင်) [ဒါရိုက်တာ- ကြည်ဖြူသျှင်]"
     },
- 
-{
-"title" : "ဘာမီတွန်",
-"gen" : "yanungaung,naytoe,thetmommyint,comedy",
-"date" : "",
-"cover" : "https://1.bp.blogspot.com/-n4jlfrZdRHk/XzJnGxs3XsI/AAAAAAAAY8c/3b5Qye8MtCMom4z4ohGZJ3EhUcjh4Y6WgCLcBGAsYHQ/s0/brmiTon.jpg",
-"image" : "https://1.bp.blogspot.com/-YSb4ehxd_f0/XzJ1LoUVawI/AAAAAAAAY80/CZt9lxFd4LEzeR-QtYSitYBgzWrdAfkJwCLcBGAsYHQ/s1600/b2.jpg",
-"length" : "2:24:43",
-"qual" : "‪1,280 x 720‬",
-"size" : "938 MB",
-"video" : "https://drive.google.com/file/d/19ySqNq5pLiD217gco3rEG69_H8TrLhrH/view",
-"vol" : " ရန်အောင် ၊ နေတိုး ၊ ထွန်းအိန္ဒြာဗို ၊ သက်မွန်မြင့်"
-}
-,
-
-{
-"title" : "မာမီရှိန်း ",
-"gen" : "naytoe,Eaindrakyawzin,comedy",
-"date" : "",
-"cover" : "https://1.bp.blogspot.com/-uPQBP2fpEgM/XzJ7hAit2tI/AAAAAAAAY9Q/7PLnXCTTN0AJdBnPCyK9-gcI4n4EMUmHACLcBGAsYHQ/s1600/MarMeShein.jpg",
-"image" : "https://1.bp.blogspot.com/-ZHieCo6p_PE/XzJ7hby42wI/AAAAAAAAY9U/z2NWZnEcGssoHyoxMU8chL9J9lolLcYqgCLcBGAsYHQ/s0/mrmeSmall.jpeg",
-"length" : "2:25:08",
-"qual" : "‪1,920 x 1,080‬",
-"size" : "2GB",
-"video" : "https://drive.google.com/file/d/13TX8onO6sWe2d7W8CQ122Q7eC-VwK193/view",
-"vol" : "နေတိုး၊ အိန္ဒြာကျော်ဇင်"
-}
-,
-{
-"title" : "ကိုကိုစုံထောက်ကြီး ",
-"gen" : "naytoe,shwemonyati,comedy",
-"date" : "",
-"cover" : "https://1.bp.blogspot.com/-9lvHUuXgdTM/XzJnG5AS8FI/AAAAAAAAY8k/VAnGJRbdRzoJnIV04hlRyE-ZuC0mQMfcQCLcBGAsYHQ/s1600/kokodetative.jpg",
-"image" : "https://1.bp.blogspot.com/-kfKkaTs66tQ/XzJ1LvSE60I/AAAAAAAAY84/HhMpVjaCxLw0lRcHOvMw6Sh3MnHjrmGVQCLcBGAsYHQ/s640/kokodetative.jpg",
-"length" : "1:48:00",
-"qual" : "1280 × 720",
-"size" : "567 MB",
-"video" : "https://drive.google.com/file/d/1FNSzeLB_I-gi6hOMQ2o8uWOdRC9errHg/view",
-"vol" : "နေတိုး၊ ရွှေမှုံရတီ"
-}
-,
-
  {
       "image" : "http://104275-c.ooyala.com/FveXllZzE6WxuYKdzPNVfqfJ2-apAeSM/promo363607565",
 	  "cover" : "http://104275-c.ooyala.com/FveXllZzE6WxuYKdzPNVfqfJ2-apAeSM/promo363607565",
