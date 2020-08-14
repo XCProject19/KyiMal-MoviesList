@@ -13,7 +13,7 @@
 "video" : "https://drive.google.com/file/d/15NP4VeZI4zwyOkNctrlSK3jgHdrB8wra/view",
 "vol" : ""}
 ,
-	{
+{
 "title" : "သားဗိုက်ကောင်",
 "gen" : "tuntun,comedy,drama",
 "date" : "2019",
@@ -26,7 +26,7 @@
 "vol" : ""}
 ,
 	
-	{
+{
 "title" : "လေးပါးကျော့ရှိန် ဝရဇိန်",
 "gen" : "naymin,minmawkun,minthway,tuntun,siphyo,comedy,action",
 "date" : "2019",
@@ -38,7 +38,7 @@
 "video" : "https://drive.google.com/file/d/1vG-xY2fOIFDlCUMoinH82-v--9xU9-eb/view",
 "vol" : "နဖြူစင်သောမေတ္တာတရား ၊ စစ်မှန်သောသူငယ်ချင်း ၊ ချစ်စရာကောင်းတဲ့ဘဝတွေကိုပုံဖော်ရိုက်ကူးထားတဲ့ ရုပ်ရှင်ဇာတ်ကားကြီး...။ မင်းသွေးကို ပြန်လည်အမှတ်ရစေမယ့်  လေးပါးကျော့ရှိန် ဝရဇိန်...။"}
 ,
-	{
+{
 "title" : "ပထမထပ် ဟန်းနီးမွန်း",
 "gen" : "zayyehtet,comedy",
 "date" : "2019",
@@ -50,7 +50,7 @@
 "video" : "https://drive.google.com/file/d/1FMXpAy2Q1HjO2bzv08-ightzCan5o8U0/view",
 "vol" : ""}
 ,
-	{
+{
 "title" : "ခေါက်ထီးလေး မလုံ့တလုံ",
 "gen" : "minmawkun,drama",
 "date" : "2016",
@@ -62,7 +62,7 @@
 "video" : "https://drive.google.com/file/d/1ZGgtd1lDz0eMG5xNX39yn6GXjzsEVDNh/view",
 "vol" : ""}
 ,
-	{
+{
 "title" : "ဂျုံးဂျုံး ဂျက်ဂျက်",
 "gen" : "saisaikhunhlaing,basai,drama",
 "date" : "2019",
@@ -73,9 +73,7 @@
 "size" : "2.0 GB",
 "video" : "https://drive.google.com/file/d/1lHeC_iGf_Rkae_AJxvBofjVIUxK0QJLe/view",
 "vol" : ""}
-,
-	
-	   
+,	   
 {
 "title" : "မာယာပရောဂျက်",
 "gen" : "naytoe,thetmommyint,phwayphway",
@@ -89,7 +87,7 @@
 "vol" : "နေတိုး၊ သက်မွန်မြင့်၊ ဖွေးဖွေး"
 }
 ,
-	{
+{
 "title" : "ပြဿနာ",
 "gen" : "naytoe,zarganar,comedy",
 "date" : "2019",
@@ -103,7 +101,7 @@
 တစ်ရပ်ကွက်လုံးနဲ့တည့်တဲ့ ဆံပင်ညှပ်ဆရာလေး နီတွတ်က ယောက္ခမလောင်းကြီးဦးလှဆောင်နဲ့ကျမှပဲ တစောင်းစေးနဲ့မျက်ချေးဆိုသလိုဖြစ်နေလေတော့ သူတို့နှစ်ယောက်ပြဿနာတက်တော့တာပေါ့။
 နေတိုးနဲ့ဇာဂနာတို့ရဲ့ပြဿနာကို ဆက်လက်ကြည့်ရှုလိုက်ပါဦးနော်။"}
 ,
-		{
+{
 "title" : "တိမ်တိုက်တံတား",
 "gen" : "naytoe,tuntun,drama",
 "date" : "2018",
@@ -740,7 +738,21 @@
      "qual" : "SD", "vid" : "ff",
       "video" : "http://104275-c.ooyala.com/ZhN2l0ZTE6SsAZTEvx2V0KDRVir4t9L6/DOcJ-FxaFrRg4gtDEwOjkzOjBmO2MCB8",
       "vol" : "(နေမျိုးအောင်၊ ဆုပန်ထွာ) [ဒါရိုက်တာ- ကျော်ဇောလင်း၏(အေတွးပုံရိပ်)]"
-    },
+ },
+
+{
+"title" : "ချိုချစ်ခါး",
+"gen" : "naytoe,thetmommyint,drama,comedy",
+"date" : "",
+"cover" : "https://1.bp.blogspot.com/-9wYg7zOoojE/XzPXuXcfHJI/AAAAAAAAZME/qEWZKRRKbj8OTvcjrWqDYTqUbp5-Hw-iACLcBGAsYHQ/s0/ChoChitLong.jpg",
+"image" : "https://1.bp.blogspot.com/-wxHyo-XSbJk/XzPXuL3PRTI/AAAAAAAAZL8/CLEhazNkJR0F8E9fGhwiXdVZrldtygE9QCLcBGAsYHQ/s0/ChoChitSmall.jpg",
+"length" : "2:08:54",
+"qual" : "",
+"size" : "1 GB",
+"video" : "https://drive.google.com/file/d/1s0QVj0yTEk4eDJX81bvPu4VNEozH09Ob/view",
+"vol" : "နေတိုး၊သက်မွန်မြင့်"
+}
+,
 {
       "image" : "http://104275-c.ooyala.com/FjY2p0ZTE68QyLAym6EqjjYYf7LnCTcQ/promo346499291",
 	  "cover" : "http://104275-c.ooyala.com/FjY2p0ZTE68QyLAym6EqjjYYf7LnCTcQ/promo346499291",
